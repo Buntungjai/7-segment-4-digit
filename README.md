@@ -1,3 +1,5 @@
 # 7-segment-4-digit
 
-[![YouTube Short Preview](https://img.youtube.com/vi/-YFWbYB0UfI/0.jpg)](https://youtube.com/shorts/-YFWbYB0UfI)
+<p align="center">
+  <img src="4digit.jpg" alt="4-Digit 7-Segment Display" width="400">
+</p>
