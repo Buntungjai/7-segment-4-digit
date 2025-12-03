@@ -15,7 +15,9 @@ datasheet4digit
 <br>
 ถ้าเป็น anode ต้องต่อเข้า 5v 
 แล้วขาอีกด้านต่อ gnd
-
+<br>
+อย่าลืมต่อ R 220 ohm นะ ไม่งั้น เสียทันที !!!
+<br>
 <p align="center">
   <img src="datasheet4digit.jpg" alt="4-Digit 7-Segment Display" width="400">
 </p>
