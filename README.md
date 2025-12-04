@@ -22,3 +22,11 @@ datasheet4digit
 <p align="center">
   <img src="datasheet4digit.jpg" alt="4-Digit 7-Segment Display" width="400">
 </p>
+
+<br>
+จริงๆผมต่อแบบเรียง พิน arduino ตรงกับ พินของหน้าจอเลย 
+ตั้งแต่ 1 - 12 ยกเว้น พิน 3
+
+<p align="center">
+  <img src="circuit4digit.png" alt="4-Digit 7-Segment Display" width="400">
+</p>
