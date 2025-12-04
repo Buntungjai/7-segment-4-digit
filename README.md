@@ -1,8 +1,6 @@
 # 7-segment-4-digit
 https://youtube.com/shorts/-YFWbYB0UfI 
 
-[![Watch the video](https://img.youtube.com/vi/-YFWbYB0UfI/mqdefault.jpg)](https://youtube.com/shorts/-YFWbYB0UfI)
-
 <br>
 วิธีใช้ให้เราต่อ pin ตรงตาม datasheet ของ 7segment 
 <p align="center">
