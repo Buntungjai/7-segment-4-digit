@@ -20,7 +20,7 @@ datasheet4digit
 อย่าลืมต่อ R 220 ohm นะ ไม่งั้น เสียทันที !!!
 <br>
 <p align="center">
-  <img src="datasheet4digit.jpg" alt="4-Digit 7-Segment Display" width="400">
+  <img src="datasheet4digit.jpg" alt="4-Digit 7-Segment Display" width="800">
 </p>
 
 <br>
@@ -28,5 +28,5 @@ datasheet4digit
 ตั้งแต่ 1 - 12 ยกเว้น พิน 3
 
 <p align="center">
-  <img src="circuit4digit.png" alt="4-Digit 7-Segment Display" width="400">
+  <img src="circuit4digit.png" alt="4-Digit 7-Segment Display" width="800">
 </p>
